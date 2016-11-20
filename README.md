@@ -1,2 +1,2 @@
 # validation
-validation with specification pattern
+validation of things with 'specification pattern'
